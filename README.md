@@ -6,7 +6,7 @@ My personal repository
 
 - 🌱 I’m currently learning **Python**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: carollinaanderson@icloud.com </h3>
 <p align="left">
 </p>
 
